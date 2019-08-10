@@ -1,0 +1,425 @@
+.box{
+    width:100%;
+    height: 85px;
+    background-color: aquamarine;
+}
+.title
+{
+    height: 60px;
+    font-size:50px;
+    margin-left:25px;
+    margin-top:10px;
+    float:left;
+    background-color: aquamarine;
+    border:2px;
+    opacity: 0.5;
+}
+
+
+.mid{
+    float: left;
+    margin-top: 30px;
+    margin-left:100px;
+}
+
+
+.boxr{
+    height: 100%;
+    width: 300px;
+    float: right;
+}
+
+.box1{
+    height:45px;
+    width: 100%;
+}
+
+.box2{
+    height:42px;
+    width: 100%;
+    
+}
+
+.name{
+    float: left;
+    margin-top:20px;
+    margin-left: 180px;
+
+}
+.nav{
+    
+    float:left;
+    margin-left:100px;
+}
+.second{
+    height:40px;
+    background-color:lightgray;
+}
+.b{
+    float:left;
+    margin-left:15px;
+    margin-top:10px;
+}
+.c{
+    float:right;
+    margin-right:15px;
+    margin-top:10px;
+}
+.third{
+    height:500px;
+    width:200px;
+    float:left;
+    background-color: lightgrey;
+    /*border:1px solid burlywood;*/
+    margin-top:40px;
+    margin-left:10px;
+}
+.t{
+    /*border:1px solid blue;*/
+    font-size:20px;
+    padding-top:10px;
+    background-color: lightskyblue;
+    height:40px;
+    padding-left:7px;
+}
+.tl{
+    font-size: 15px;
+    margin-left: 10px;
+    margin-top:10px;
+    letter-spacing: 3px;
+    border:2px;
+}
+.tll{
+    font-size: 15px;
+    margin-left: 10px;
+    margin-top:10px;
+    letter-spacing: 3px;
+    border:2px;
+}
+.tr{
+   /* border:1px solid blue;*/
+    font-size:20px;
+    padding-top:10px;
+    background-color: lightskyblue;
+    height:40px;
+    margin-top:10px;
+    padding-left:7px;
+}
+.d{
+    font-size: 15px;
+    margin-left: 10px;
+    margin-top:10px;
+    letter-spacing: 1px;
+    border:2px;
+} 
+.m{
+    font-size: 15px;
+    padding-left:7px;
+    height:30px;
+    padding-top: 10px;
+    margin-top:10px;
+    letter-spacing: 1px;
+    border:3px;
+    background-color: white;
+}
+.last{
+    margin-top: 10px;
+    margin-left:10px;
+    line-height:30px;
+}
+.center{
+    height:600px;
+    float:left;
+    width:865px;
+    border:1px solid skyblue;
+    margin-top:40px;
+    margin-left: 20px;
+}
+.forth{
+    height:500px;
+    width:200px;
+    float:right;
+    background-color: lightgrey;
+    /*border:1px solid burlywood;*/
+    margin-top:40px;
+    margin-right:10px;
+}
+.v{
+    /*border:1px solid blue;*/
+    font-size:20px;
+    padding-top:10px;
+    background-color: lightskyblue;
+    height:40px;
+    padding-left:7px;
+}
+.o{
+    font-size: 16px;
+    margin-left: 10px;
+    margin-top:10px;
+    letter-spacing: 1px;
+    border:2px;
+}
+.s{
+    font-size: 16px;
+    padding-left:7px;
+    height:30px;
+    padding-top: 10px;
+    margin-top:10px;
+    letter-spacing: 1px;
+    border:2px;
+    background-color: white;
+}
+.rlast{
+    margin-top: 10px;
+    margin-left:10px;
+    line-height:30px;
+}
+.e{
+    border:1px solid white;
+    font-size:25px;
+    padding-top:10px;
+    background-color: white;
+    height:40px;
+    padding-left:7px;
+    font-weight: 800;
+    opacity:0.8;
+}
+.all{
+    background-color: white;
+    width:865px;
+    height:70px;
+    border-bottom: 2px solid lightseagreen;
+}
+.inside1, .inside2{
+    background-color: lightgrey;
+    width:49%;
+    height:100%;
+    float:left;
+   
+
+}
+.inside1{
+    border-top-left-radius: 20px;
+}
+.inside2{
+    float:right;
+    border-top-right-radius: 20px;
+
+}
+.i1{
+    height:48%;
+    width:100%;
+    font-size: 20px;
+    float:left;
+    box-sizing: border-box;
+    padding-left:170px;
+    padding-top:5px;
+    
+}
+.i2{
+    height:50%;
+    width:100%;
+    float:left;
+    box-sizing: border-box;
+
+}
+.ii2,.ii3{
+    height:100%;
+    width:46%;
+    background-color:lightskyblue;
+    float:left;
+    margin-left: 9px;
+    box-sizing: border-box;
+    font-size: 20px;
+    padding-left:35px;
+    padding-top:3px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.ii3{
+    background-color: grey;
+}
+.ii22{
+    height:100%;
+    width:46%;
+    background-color:grey;
+    float:right;
+    margin-right: 9px;
+    box-sizing: border-box;
+    font-size: 20px;
+    padding-left:60px;
+    padding-top:3px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.lbox{
+    height:80px;
+    width:100%;
+    border:1px solid blueviolet;
+    background-color: aliceblue;
+    margin-top:10px;
+    
+}
+.inbox{
+    height: 65px;
+    border: 1px solid green;
+    background-color: aqua;
+    box-sizing: border-box;
+    float: right;
+    width: 808px;
+    font-size:20px;
+ }
+ .y{
+     font-size: 15px;
+ }
+ .writer{
+     font-size: 15px;
+     color: lightseagreen;
+     font-weight: 500;
+ }
+.man1{
+    float:left;
+}
+.writer{
+    font-size: 15px;
+}
+.date{
+    font-size: 15px;
+}
+.status{
+    font-size: 15px;
+    font-weight: 500;
+    color: green;
+}
+.fr{
+    font-size: 15px;
+    
+}
+.nm{
+    font-size: 15px;
+    font-weight: 500;
+    color:lightseagreen;
+}
+.lbox2{
+    height:90px;
+    width:100%;
+    border:1px solid rgb(195, 43, 226);
+    background-color: aliceblue;
+    margin-top:10px;
+}
+.inbox2{
+    height: 80px;
+    border: 1px solid green;
+    background-color: white;
+    box-sizing: border-box;
+    float: right;
+    width: 808px;
+    font-size:20px;
+ }
+ .man2{
+    float:left;
+}
+.new{
+    color: lightseagreen;
+    font-weight: 800;
+}
+.blade{
+    font-size: 20px;
+}
+.pilot{
+    font-size: 15px;
+}
+.scene{
+    font-size: 15px;
+}
+.lbox3{
+    height:90px;
+    width:100%;
+    border:1px solid rgb(195, 43, 226);
+    background-color: aliceblue;
+    margin-top:10px;
+}
+.inbox3{
+    height: 80px;
+    border: 1px solid green;
+    background-color: white;
+    box-sizing: border-box;
+    float: right;
+    width: 808px;
+    font-size:20px;
+ }
+ .man3{
+    float:left;
+}
+.comment{
+    color: lightseagreen;
+    font-weight: 800;
+}
+.best{
+    font-size: 20px;
+}
+.jim{
+    font-size: 15px;
+}
+.topic{
+    font-size: 15px;
+}
+.lbox4{
+    height:70px;
+    width:100%;
+    border:1px solid rgb(195, 43, 226);
+    background-color: aliceblue;
+    margin-top:10px;
+}
+.inbox4{
+    height: 60px;
+    border: 1px solid green;
+    background-color: white;
+    box-sizing: border-box;
+    float: right;
+    width: 808px;
+   
+ }
+ .man4{
+    float:left;
+}
+.night{
+    font-size: 20px;
+}
+.john{
+    font-size: 15px;
+}
+.book{
+    font-size: 15px;
+}
+.lbox5{
+    height:85px;
+    width:100%;
+    border:1px solid rgb(195, 43, 226);
+    background-color: aliceblue;
+    margin-top:10px;
+}
+.man5{
+    float:left;
+}
+.inbox5{
+    height: 75px;
+    border: 1px solid green;
+    background-color: white;
+    box-sizing: border-box;
+    float: right;
+    width: 808px;
+}
+.invite{
+    color: lightcoral;
+    font-weight: 800;
+}
+.pea{
+    font-size: 20px;
+}
+.gig{
+    font-size: 15px;
+}
+.lastone{
+    font-size: 15px;
+}
